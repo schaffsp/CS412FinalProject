@@ -1,0 +1,10 @@
+python3 maxclique_brute.py < testcases/input1.txt > testcases/output1.txt
+python3 maxclique_brute.py < testcases/input2.txt > testcases/output2.txt
+python3 maxclique_brute.py < testcases/input3.txt > testcases/output3.txt
+python3 maxclique_brute.py < testcases/input4.txt > testcases/output4.txt
+python3 maxclique_brute.py < testcases/input5.txt > testcases/output5.txt
+python3 maxclique_brute.py < testcases/input6.txt > testcases/output6.txt
+python3 maxclique_brute.py < testcases/input7.txt > testcases/output7.txt
+python3 maxclique_brute.py < testcases/input7.txt > testcases/output7.txt
+python3 maxclique_brute.py < testcases/input8.txt > testcases/output8.txt
+python3 maxclique_brute.py < testcases/input9.txt > testcases/output9.txt
